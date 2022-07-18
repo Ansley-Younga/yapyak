@@ -1,0 +1,65 @@
+#row1 {
+  background-color: #0085f8;
+}
+
+#FasterCommunication {
+  margin-top: 150px;
+  font-size: 24px;
+}
+
+#vectorImages {
+  text-align: center;
+}
+
+#EasyUsage {
+  text-align: right;
+}
+
+#LetsChat {
+  background-color: #f7f2f2;
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+
+#GetStarted {
+  background-color: white;
+  color: #035bbe;
+}
+
+#GetStarted:hover {
+  background-color: #035bbe;
+  color: white;
+}
+
+#Request {
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+
+#Disclaimer {
+  background-color: #f7f2f2;
+  padding-top: 90px;
+  padding-bottom: none;
+}
+
+@media only screen and (max-width: 1250px) {
+  #FasterCommunication {
+    margin-top: 80px;
+    font-size: 18px;
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 1250px) {
+  #speed,
+  #EasyUsage,
+  #Disclaimer {
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 1250px) {
+  #FasterCommunication {
+    margin-top: 50px;
+  }
+}
